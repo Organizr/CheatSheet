@@ -30,4 +30,3 @@ td.fc-day-top.fc-today {
 #calendar h2{
     color: red !important;
 }
-```
