@@ -8,7 +8,7 @@
 }
 ```
 
-## Discord/Netdata 2 Column Layout Exammple
+## Discord/Netdata 2 Column Layout Example
 ![img](img/homepage/discordnetdata.png)
 ```css
 .overflowhider {
